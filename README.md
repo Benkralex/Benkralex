@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benkralex
-- 👀 I’m interested in HTML, PHP and CSS
-- 🌱 I’m currently learning HTML, PHP and CSS
+- 👀 I’m interested in HTML, PHP and Java
+- 🌱 I’m currently learning Java
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: GitHub comment
 
