@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benkralex
-- 👀 I’m interested in Webcoding, Java and JavaScript
-- 🌱 I’m currently learning JavaScript
-<!--- 💞️ I’m looking to collaborate on ...--->
+- 👀 I’m interested in Webcoding, Python and Java
+- 🌱 I’m currently learning Python OOP
+- 💞️ I’m looking to collaborate on photofox, a open-source social media platform
 - 📫 How to reach me: GitHub comment
 
 <!---
