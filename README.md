@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benkralex
-- 👀 I’m interested in Webcoding, Python and Java
-- 🌱 I’m currently learning Python OOP
-- 💞️ I’m looking to collaborate on photofox, a open-source social media platform
+- 👀 I’m interested in Webcoding, Python, Dart/Flutter and Java
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on WerwolfApp, a open-source app for the party game
 - 📫 How to reach me: GitHub comment
 
 <!---
