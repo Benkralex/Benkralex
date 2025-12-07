@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benkralex
-- 👀 I’m interested in Webcoding, Python, Dart/Flutter and Java
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on WerwolfApp, a open-source app for the party game
+- 👀 I’m interested in Webdev, Android and Python 
+- 🌱 I’m currently learning C++ with Advent of Code
+- 💞️ I’m looking to collaborate on WerwolfApp, PartyGames, Socius or of my other repos
 - 📫 How to reach me: GitHub comment
 
 <!---
