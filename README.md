@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Socius, WerwolfApp, PartyGames or of my other repos
 - 📫 How to reach me:
   - Matrix: [@benkralex42:matrix.org](https://matrix.to/#/@benkralex42:matrix.org)
-  - 
 
 <!---
 Benkralex/Benkralex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
